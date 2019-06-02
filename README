@@ -1,3 +1,13 @@
+Fork of the original DWM by suckless.org 
+
+Mod key changed to the Super key.
+Patches:
+    singularborders
+    noborder
+    pertag
+
+----------------------------------------------------------------------
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
